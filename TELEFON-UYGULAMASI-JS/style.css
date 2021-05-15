@@ -1,0 +1,90 @@
+.margin-auto{
+    margin: 0 auto;
+    background-image : url("telefon.png");
+    background-repeat: no-repeat;
+    background-size: 458px;
+    
+    z-index: -1;
+    
+}
+.border1pxsolid{
+    border: 1px solid white;
+    height: 1000px;
+    min-width: 500px;
+}
+.border2pxsolid{
+    
+    filter: drop-shadow(-10px 10px 10px #000);
+    border-radius: 10px;
+    width: 295px;
+    height: 219px;
+    margin-top:275px ;
+    margin-left: 65px;
+    border-radius: 0px;
+   
+    
+    box-shadow: 0 5px 10px black;
+    
+}
+
+.border3pxsolid{
+    
+    
+    width: 315px;
+    height: 140px;
+    margin-top:27px ;
+    margin-left: 65px;
+    border-radius: 30px;
+    
+}
+.border4pxsolid{
+    
+    
+    width: 405px;
+    height: 320px;
+   
+    margin-left: 15px;
+    border-radius: 30px;
+    
+}
+.btn-okey{
+    width: 160px;
+    height: 41px;
+    border-radius: 30px;
+    margin-top: 14px;
+    margin-left: 70px;
+    margin-right: 250px;
+
+}
+.btn-open{
+    width: 70px;
+    height: 71px;
+    border-radius: 100px;
+    border-top-left-radius: 10px;
+    margin-top: -19px;
+    margin-left: 4px;
+    margin-right:150px ;
+}
+.btn-up{
+    width: 50px;
+    height: 40px;
+   
+    border-bottom-right-radius: 50px;
+    
+    margin-left:20px ;
+    margin-top: -35px;
+  
+}
+.btn-down{
+    width: 60px;
+    height: 60px;
+   
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    
+    margin-left:180px ;
+    margin-top: -60px;
+}
+.buttons{
+    opacity: 0;
+}
