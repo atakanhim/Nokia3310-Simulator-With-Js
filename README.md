@@ -1,9 +1,5 @@
 # Nokia3310-Simulator-With-Js
-<<<<<<< HEAD
- Simulator experiment with JavaScripttt<br/>
-=======
  Simulator experiment with JavaScript<br/>
->>>>>>> 017d445106e3b4d73b1f901c13066f356fa03e80
  
 ## Step-1
 *Press the start button for 2 seconds to turn on the phone* <br/>
