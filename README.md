@@ -13,4 +13,4 @@
 *Hover on the snake And again Press the big button* <br/>
 # Well Done
 *Start playing with the arrow keys,If you reach 5 points, the program will call you halal* <br/>
-# Enjoy The Game
+# Enjoy The Game :)
